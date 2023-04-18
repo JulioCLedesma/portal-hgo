@@ -13,7 +13,7 @@ const NavBarExample = () => {
                 <Nav.Link as={Link} to="/" >Inicio</Nav.Link>
                 <Nav.Link as={Link} to="/calidad">Calidad</Nav.Link>
                 <Nav.Link as={Link} to="/farmacovigilancia">Farmacovigilancia</Nav.Link>
-                <Nav.Link as={Link} to="/tecnovigilancia">Teconovigilancia</Nav.Link>
+                <Nav.Link as={Link} to="/tecnovigilancia">Tecnovigilancia</Nav.Link>
                 <Nav.Link as={Link} to="/mantenimiento">Mantenimiento</Nav.Link>
                 <Nav.Link as={Link} to="/contact">Contacto</Nav.Link>
             </Nav>
